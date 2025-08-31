@@ -3,7 +3,7 @@
 # 🏆 Certificate of Excellence  
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/SQL.certificate%202025.png" alt="SQL Certificate" width="700" />
+  <img src="https://github.com/ibrahim22-11/SQL-Certificate-by-Scaler-Topics/blob/main/SQL.certificate%202025.png" alt="SQL Certificate" width="700" />
 </p>
 
 ---
@@ -29,5 +29,5 @@ Through this course, I gained solid foundational knowledge in:
 ---
 
 <p align="center" style="background-color:black; padding:20px; border-radius:12px;">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/SQL.certificate%202025.png" alt="SQL Certificate" width="750" />
+  <img src="https://github.com/ibrahim22-11/SQL-Certificate-by-Scaler-Topics/blob/main/SQL.certificate%202025.png" alt="SQL Certificate" width="750" />
 </p>
